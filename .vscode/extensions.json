@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "nino.easy-simple-react-snippets-lite",
+    "sleistner.vscode-fileutils",
+    "suhelmakkad.shadcn-ui"
+  ]
+}
