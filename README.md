@@ -5,7 +5,11 @@ tailwindcss のサポート設定を追加しています。
 ## 使い方
 
 ```bash
+# テンプレートからNext.jsプロジェクトを作成
 bunx create-next-app -e https://github.com/tohda/template-nextjs-shadcn
+
+# ローカルサーバー起動
+bun run dev
 ```
 
 `-e, --example [github-url]`：指定したURLのリポジトリをテンプレートにします。
@@ -15,7 +19,7 @@ bunx create-next-app -e https://github.com/tohda/template-nextjs-shadcn
 ## テンプレートの内容
 
 ```
-npx create-next-app@latest
+bunx create-next-app@latest
 ```
 
 <img src="https://github.com/tohda/template-nextjs-shadcn/assets/16369289/81b0fa3c-a40a-40e2-a560-04e710642c56" width="600">
