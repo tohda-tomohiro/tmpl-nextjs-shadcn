@@ -1,8 +1,13 @@
 ## 概要
 create-next-app をベースにして、すぐに shadcn/ui が使えるようにしたテンプレートです。  
-tailwindcss のサポート設定を追加しています。
+tailwindcss のサポート設定を追加しています。  
+UIは画面に「Template」と表示されるだけのシンプルな構成です。
+
+<img src="https://github.com/tohda-tomohiro/tmpl-nextjs-shadcn/assets/154492181/a850d927-0f87-4fc8-b194-87bb5a6d78a3" width="800"/>
 
 ## 使い方
+bun を利用しています。
+https://bun.sh/
 
 ```bash
 # テンプレートからNext.jsプロジェクトを作成
